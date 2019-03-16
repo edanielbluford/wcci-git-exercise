@@ -50,3 +50,7 @@ nav a:hover {
  .active, .collapsible:hover {
   background-color: #ccc;
 }
+
+header{
+	margin-top:5em;
+}
